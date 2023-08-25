@@ -1,0 +1,51 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    
+    }
+    
+    .text-muted {
+    
+    font-weight: bold;
+        
+    }
+    
+    header{   
+        text-align: center;
+        justify-content: center;
+        padding: 20px;
+    }
+    
+    section.imagen_objetivo_profesional{
+        display: flex;
+        align-items: center;
+        background-color: black;
+        
+    }
+    
+    .texto{
+    
+        padding: 10px;
+        color: aliceblue;
+    }
+    
+    .foto{
+    
+        padding: 60px;
+    }
+    
+    h4{
+        justify-content: left;
+        padding: 20px;
+        color: grey;
+    }
+    
+    footer{
+        color: aliceblue;
+        justify-content: space-evenly;
+        text-align: center;   
+        
+    }
+    
+    
+    
+    
